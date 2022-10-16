@@ -1,0 +1,15 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Abylai's CV",
+"description": "Abylai's CV",
+"keywords": "Python web development, Flask backend",
+"name": "abl",
+"tag1":"Developer",
+"tag2":"on Flask",
+"sect1":"Main",
+"sect2":"Resume",
+"sect5":"Contacts",
+"telegram":"https://t.me/justfguy",
+"vk":"https://vk.com/justfguy",
+"email":"mailto:abilaie11@gmail.com",
+"city":"Astana"
+}
